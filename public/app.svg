@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400"
+   height="300"
+   viewBox="0 0 4 3"
+   fill="none"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="app.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.7767308"
+     inkscape:cx="100.184"
+     inkscape:cy="120.72735"
+     inkscape:window-width="1908"
+     inkscape:window-height="1143"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <!-- Ekran laptopa -->
+  <rect
+     x="0.30000007"
+     y="1.9"
+     width="3.4000001"
+     height="0.50642401"
+     rx="0.1"
+     fill="#6366f1"
+     id="rect1-3"
+     style="stroke-width:0.581047;fill:#5e62da;fill-opacity:1" />
+  <rect
+     x="0.3"
+     y="0.5"
+     width="3.4"
+     height="1.5"
+     rx="0.1"
+     fill="#6366F1"
+     id="rect1" />
+  <!-- Ekran wewnętrzny -->
+  <rect
+     x="0.4"
+     y="0.6"
+     width="3.2"
+     height="1.3"
+     rx="0.05"
+     fill="white"
+     id="rect2" />
+  <!-- Linijki kodu -->
+  <rect
+     x="0.45"
+     y="0.65"
+     width="0.8"
+     height="0.1"
+     rx="0.02"
+     fill="#6366F1"
+     id="rect3" />
+  <rect
+     x="0.45"
+     y="0.8"
+     width="1.5"
+     height="0.1"
+     rx="0.02"
+     fill="#4F46E5"
+     id="rect4" />
+  <rect
+     x="0.45"
+     y="0.95"
+     width="1.0"
+     height="0.1"
+     rx="0.02"
+     fill="#818CF8"
+     id="rect5" />
+  <!-- Smartfon z boku -->
+  <rect
+     x="2.8715203"
+     y="0.74432552"
+     width="0.60000002"
+     height="1"
+     rx="0.1"
+     fill="#e0e7ff"
+     stroke="#6366f1"
+     stroke-width="0.02"
+     id="rect6"
+     style="fill:none" />
+  <rect
+     x="2.9581482"
+     y="0.82033139"
+     width="0.42674395"
+     height="0.1298521"
+     rx="0.0085348794"
+     fill="#6366f1"
+     id="rect7"
+     style="stroke-width:0.859565" />
+  <rect
+     x="2.9581482"
+     y="0.99346757"
+     width="0.42674395"
+     height="0.1298521"
+     rx="0.0085348794"
+     fill="#4f46e5"
+     id="rect8"
+     style="stroke-width:0.859565" />
+  <!-- Symbol kodu (</>) -->
+  <!-- Ikona narzędzia -->
+</svg>
